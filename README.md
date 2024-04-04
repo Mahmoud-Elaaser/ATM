@@ -17,3 +17,7 @@ The application simulates basic ATM functionalities such as depositing money, wi
 ### About: 
 This project was developed as a learning exercise to demonstrate object-oriented programming concepts in C#. 
 It showcases the use of classes, properties, methods, exception handling, and user input/output
+
+### **Screen Shot:**
+![Screenshot of the application](https://github.com/Mahmoud-Elaaser/ATM/blob/master/Screenshot%202024-04-03%20173203.png)
+
